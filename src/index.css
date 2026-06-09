@@ -497,7 +497,7 @@ button {
   flex-direction: column;
 }
 
-.cart-sidebar.open {
+.cart-overlay.open .cart-sidebar {
   transform: translateX(0);
 }
 
